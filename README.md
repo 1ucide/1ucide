@@ -2,6 +2,13 @@
 
 Je suis ingénieure en informatique récemment diplômée, spécialisée en **cybersécurité**. Passionnée par l'innovation, la sécurité des systèmes et la programmation, j'aime résoudre des problèmes complexes et apprendre de nouvelles technologies.
 
+```c
+i = * ( long * ) &y; // evil floating point bit level hacking
+i = 0x5f3759df - ( i >> 1 ); // what the fuck?
+```
+*Si vous connaissez -> [lucie.devancier@proton.me](mailto:lucie.devancier@proton.me)*
+
+
 ## 📚 Mes compétences
 Voici un aperçu des technologies que j'utilise et que je maîtrise :
 
